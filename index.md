@@ -8,14 +8,35 @@ Documentation of the **Translator Architecture** can be found at [github.com/NCA
 
 ## Translator tools
 
-The documentation for the different tools can be [found in the Wiki](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki).
+The documentation for the different tools can be [found in the **Wiki**](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki).
 
-Feel free to add a page for your tools with informations such as:
+Available tools are:
 
-* Short human-readable description of the tool
-* Git repository URLs
-* Links to access the available APIs
-* Documentation how to deploy the tool
+#### Knowledge Providers (KP)
+* [Clinical Data Provider](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Clinical-Data-Provider)
+* [Connections Hypothesis Provider](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Connections-Hypothesis-Provider)
+* [Exposure Provider](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Exposure-Provider)
+* [Genetic Knowledge Provider](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Genetic-Knowledge-Provider)
+* [Molecular Data Provider](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Molecular-Data-Provider)
+* [Multiomics Provider](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Multiomics-Provider)
+* [Text Mining Provider](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Text-Mining-Provider)
+* [Service Provider](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Service-Provider)
+
+#### Autonomous Relay Agent (ARA)
+* [Ranking Agent](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Ranking-Agent)
+* [(Im)proving Agent](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/(Im)proving-Agent)
+* [Explanatory Agent](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Explanatory-Agent)
+* [Exploring Agent](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Exploring-Agent)
+* [Team Expander Agent](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Team-Expander-Agent)
+
+#### [Standard Reasoner Implementations (SRI)](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Standard-Reasoner-Implementations-(SRI))
+
+> Feel free to add a page for your tools with informations such as:
+>
+> * Short human-readable description of the tool
+> * Git repository URLs
+> * Links to access the available APIs
+> * Documentation how to deploy the tool
 
 ## Translator APIs
 
