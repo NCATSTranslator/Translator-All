@@ -1,10 +1,10 @@
 ---
-title: "NCATS Biomedical Data Translator tools registry"
+title: "NCATS Translator tools registry"
 ---
 
 This repository contains references and documentation for the prototypes produced for the [**NCATS Biomedical Data Translator**](https://ncats.nih.gov/translator).
 
-Documentation of the **Translator Architecture** can be found at https://github.com/NCATSTranslator/TranslatorArchitecture 
+Documentation of the **Translator Architecture** can be found at [github.com/NCATSTranslator/TranslatorArchitecture](https://github.com/NCATSTranslator/TranslatorArchitecture) 
 
 ## Translator tools
 
@@ -19,7 +19,7 @@ Feel free to add a page for your tools with informations such as:
 
 ## Translator APIs
 
-The Translator API registry can be found at https://github.com/NCATS-Tangerine/translator-api-registry
+The Translator API registry can be found at [github.com/NCATS-Tangerine/translator-api-registry](https://github.com/NCATS-Tangerine/translator-api-registry)
 
 ## How to use GitHub Pages
 
