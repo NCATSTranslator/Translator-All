@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: NCATS Data Translator tools registry
 description: Documentation for the different tools available in the NCATS Biomedical Data Translator 
+show_downloads: false
