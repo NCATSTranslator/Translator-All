@@ -29,7 +29,9 @@ Available tools are:
 * [Exploring Agent](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Exploring-Agent)
 * [Team Expander Agent](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Team-Expander-Agent)
 
-#### [Standard Reasoner Implementations (SRI)](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Standard-Reasoner-Implementations-(SRI))
+#### Standard Reasoner Implementations (SRI)
+
+* [SRI team](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Standard-Reasoner-Implementations-(SRI))
 
 > Feel free to add a page for your tools with informations such as:
 >
@@ -41,6 +43,10 @@ Available tools are:
 ## Translator APIs
 
 The Translator API registry can be found at [github.com/NCATS-Tangerine/translator-api-registry](https://github.com/NCATS-Tangerine/translator-api-registry)
+
+## Translator ReasonerStd API validation
+
+Official Reasoner Specifications validation service at [http://transltr.io:7071/apidocs](http://transltr.io:7071/apidocs)
 
 ## How to use GitHub Pages
 
