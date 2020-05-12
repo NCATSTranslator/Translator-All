@@ -29,6 +29,9 @@ Available tools are:
 * [Exploring Agent](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Exploring-Agent)
 * [Team Expander Agent](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Team-Expander-Agent)
 
+#### Autonomous Relay System (ARS)
+* [Link Brokers](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Autonomous-Relay-System-(ARS))
+
 #### Standard Reasoner Implementations (SRI)
 
 * [SRI team](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Standard-Reasoner-Implementations-(SRI))
