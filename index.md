@@ -32,7 +32,7 @@ Available tools are:
 #### Autonomous Relay System (ARS)
 * [Link Brokers](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Autonomous-Relay-System-(ARS))
 
-#### Standard Reasoner Implementations (SRI)
+#### Standards and Reference Implementation (SRI)
 
 * [SRI team](https://github.com/NCATSTranslator/NCATSTranslator.github.io/wiki/Standard-Reasoner-Implementations-(SRI))
 
