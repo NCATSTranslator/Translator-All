@@ -45,7 +45,7 @@ Available tools are:
 
 ## Translator APIs
 
-The Translator API registry can be found at [github.com/NCATS-Tangerine/translator-api-registry](https://github.com/NCATS-Tangerine/translator-api-registry)
+The Translator API registry can be found at [SmartAPI](https://smart-api.info/registry/translator). More information about registering Translator APIs to SmartAPI registry can be found [here](https://smart-api.info/portal/translator).
 
 ## Translator ReasonerStd API validation
 
